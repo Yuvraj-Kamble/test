@@ -1,1 +1,2 @@
 learn aws
+after that learm devops
